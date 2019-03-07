@@ -2,7 +2,7 @@
 ## By Paul Seo
 
 ### Purpose:
-This project is the first time for me in tackling a public dataset on Kaggle chosen by me and I wanted to work on large datasets, which would present different problems for me to solve as I analyzed it. I also wanted to focus on descriptive statiscis and practicing new visualization techniques to help deliver insights more clearly.
+This project is the first public dataset on Kaggle that I chose to work with. I wanted a learning experience through assess and wrangling this dataset programmatically and representing the data with inline visualizations. I will be coming back to this project to include further visualizations using tableau.
 
 ### Dataset:
 This dataset provided by the City of New York is available on Kaggle (https://www.kaggle.com/new-york-city/ny-parking-violations-issued). It contains 5.9 million parking violations and 43 columns.
@@ -28,8 +28,7 @@ When looking at parking violation by season, it was no surprise that more violat
 
 Parking violations recorded during morning and afternoon made up 82% of all parking violations. This is not surprising because many of us take the car out and are out and about during these periods of time.
 
-When pitting x, y, and z against each other I found that
-...
-
 ### Conclusion:
-...
+Through this analysis I was able to confirm common conceptions regarding city parking violations, such as when most parking violations occur, which violations are most common, and what color of cars. As I was not provided with the data of the whole vehicle population of NY, I was not able to build a prediction model for what kind of cars are likely to cause a parking violation. However, I have gained a tremendous amount of experience in working with large datasets (This one has more than 5 million rows) and programmatically assessing and wrangling data.
+
+I promise to come back to this dataset to visualize further insights with tableau!
